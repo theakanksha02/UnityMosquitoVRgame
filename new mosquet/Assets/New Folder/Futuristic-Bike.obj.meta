@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: a5aca3bed61330b44b043108724e89a9
+timeCreated: 1515702783
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objCylinder195_pivot
+    100004: objCylinder195_pivot_MeshPart0
+    100006: objCylinder195_pivot_MeshPart1
+    100008: objCylinder198
+    100010: objCylinder201_pivot
+    100012: Object05
+    100014: Object06
+    100016: objObject001_pivot
+    100018: objObject001_pivot_MeshPart0
+    100020: objObject001_pivot_MeshPart1
+    100022: objObject001_pivot_MeshPart2
+    100024: objObject001_pivot_MeshPart3
+    100026: objObject099_pivot
+    100028: objObject099_pivot_MeshPart0
+    100030: objObject099_pivot_MeshPart1
+    100032: objObject101
+    100034: objSphere005
+    100036: Plane01
+    100038: Plane02
+    100040: Plane03
+    100042: Rear_Tyre01_pivot
+    100044: Rear_Tyre_pivot
+    100046: Seat
+    400000: //RootNode
+    400002: objCylinder195_pivot
+    400004: objCylinder195_pivot_MeshPart0
+    400006: objCylinder195_pivot_MeshPart1
+    400008: objCylinder198
+    400010: objCylinder201_pivot
+    400012: Object05
+    400014: Object06
+    400016: objObject001_pivot
+    400018: objObject001_pivot_MeshPart0
+    400020: objObject001_pivot_MeshPart1
+    400022: objObject001_pivot_MeshPart2
+    400024: objObject001_pivot_MeshPart3
+    400026: objObject099_pivot
+    400028: objObject099_pivot_MeshPart0
+    400030: objObject099_pivot_MeshPart1
+    400032: objObject101
+    400034: objSphere005
+    400036: Plane01
+    400038: Plane02
+    400040: Plane03
+    400042: Rear_Tyre01_pivot
+    400044: Rear_Tyre_pivot
+    400046: Seat
+    2300000: objCylinder195_pivot_MeshPart0
+    2300002: objCylinder195_pivot_MeshPart1
+    2300004: objCylinder198
+    2300006: objCylinder201_pivot
+    2300008: Object05
+    2300010: Object06
+    2300012: objObject001_pivot_MeshPart0
+    2300014: objObject001_pivot_MeshPart1
+    2300016: objObject001_pivot_MeshPart2
+    2300018: objObject001_pivot_MeshPart3
+    2300020: objObject099_pivot_MeshPart0
+    2300022: objObject099_pivot_MeshPart1
+    2300024: objObject101
+    2300026: objSphere005
+    2300028: Plane01
+    2300030: Plane02
+    2300032: Plane03
+    2300034: Rear_Tyre01_pivot
+    2300036: Rear_Tyre_pivot
+    2300038: Seat
+    3300000: objCylinder195_pivot_MeshPart0
+    3300002: objCylinder195_pivot_MeshPart1
+    3300004: objCylinder198
+    3300006: objCylinder201_pivot
+    3300008: Object05
+    3300010: Object06
+    3300012: objObject001_pivot_MeshPart0
+    3300014: objObject001_pivot_MeshPart1
+    3300016: objObject001_pivot_MeshPart2
+    3300018: objObject001_pivot_MeshPart3
+    3300020: objObject099_pivot_MeshPart0
+    3300022: objObject099_pivot_MeshPart1
+    3300024: objObject101
+    3300026: objSphere005
+    3300028: Plane01
+    3300030: Plane02
+    3300032: Plane03
+    3300034: Rear_Tyre01_pivot
+    3300036: Rear_Tyre_pivot
+    3300038: Seat
+    4300000: objCylinder195_pivot_MeshPart0
+    4300002: objCylinder195_pivot_MeshPart1
+    4300004: objCylinder198
+    4300006: objCylinder201_pivot
+    4300008: Object05
+    4300010: Object06
+    4300012: objObject001_pivot_MeshPart0
+    4300014: objObject001_pivot_MeshPart1
+    4300016: objObject001_pivot_MeshPart2
+    4300018: objObject001_pivot_MeshPart3
+    4300020: objObject099_pivot_MeshPart0
+    4300022: objObject099_pivot_MeshPart1
+    4300024: objObject101
+    4300026: objSphere005
+    4300028: Plane01
+    4300030: Plane02
+    4300032: Plane03
+    4300034: Rear_Tyre01_pivot
+    4300036: Rear_Tyre_pivot
+    4300038: Seat
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object05Mat
+    second: {fileID: 2100000, guid: bde07382bf549c742a536279bab1707f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Object06Mat
+    second: {fileID: 2100000, guid: c44db7365ba1e9345a524dcbc7c954a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane01Mat
+    second: {fileID: 2100000, guid: 47b4cc0524dd35042ae6e7bb85f3eff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane02Mat
+    second: {fileID: 2100000, guid: 60ba2e3e4280240458124519dae59e40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane03Mat
+    second: {fileID: 2100000, guid: 99a41160b50a82a4c85576c2da00f6c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rear_Tyre01_pivotMat
+    second: {fileID: 2100000, guid: d26efa6bf1d19e84abbae8b4c0b41786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rear_Tyre_pivotMat
+    second: {fileID: 2100000, guid: 8b6729d3f0f871d4bb962433cb88a122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SeatMat
+    second: {fileID: 2100000, guid: a187bab7a4d4add4990e03eeb51e77e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objCylinder195_pivotMat
+    second: {fileID: 2100000, guid: 0274a11e13046fa4ca2b85e2bfd665b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objCylinder198Mat
+    second: {fileID: 2100000, guid: 82782af67bc9493489ee57741c0fae1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objCylinder201_pivotMat
+    second: {fileID: 2100000, guid: f1ada04645f3a8f43926e49e97d1f49f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objObject001_pivotMat
+    second: {fileID: 2100000, guid: 1db245af93c2e344fb59e01b9f46de56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objObject099_pivotMat
+    second: {fileID: 2100000, guid: 34078826374bf8e44a81991cbe383483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objObject101Mat
+    second: {fileID: 2100000, guid: 6b5e3a99a3fa1e74ea9a85bb1cd8c4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objSphere005Mat
+    second: {fileID: 2100000, guid: f1bb892075330ef419ad67e1f2e4b012, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

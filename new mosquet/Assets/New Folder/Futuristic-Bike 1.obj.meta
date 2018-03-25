@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 409dcde505249814e8970b619a67da7e
+timeCreated: 1516350036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objCylinder195_pivot
+    100004: objCylinder198
+    100006: objCylinder201_pivot
+    100008: Object05
+    100010: Object06
+    100012: objObject001_pivot
+    100014: objObject099_pivot
+    100016: objObject101
+    100018: objSphere005
+    100020: Plane01
+    100022: Plane02
+    100024: Plane03
+    100026: Rear_Tyre01_pivot
+    100028: Rear_Tyre_pivot
+    100030: Seat
+    400000: //RootNode
+    400002: objCylinder195_pivot
+    400004: objCylinder198
+    400006: objCylinder201_pivot
+    400008: Object05
+    400010: Object06
+    400012: objObject001_pivot
+    400014: objObject099_pivot
+    400016: objObject101
+    400018: objSphere005
+    400020: Plane01
+    400022: Plane02
+    400024: Plane03
+    400026: Rear_Tyre01_pivot
+    400028: Rear_Tyre_pivot
+    400030: Seat
+    2100000: objCylinder195_pivotMat
+    2100002: objCylinder198Mat
+    2100004: objCylinder201_pivotMat
+    2100006: Object05Mat
+    2100008: Object06Mat
+    2100010: objObject001_pivotMat
+    2100012: objObject099_pivotMat
+    2100014: objObject101Mat
+    2100016: objSphere005Mat
+    2100018: Plane01Mat
+    2100020: Plane02Mat
+    2100022: Plane03Mat
+    2100024: Rear_Tyre01_pivotMat
+    2100026: Rear_Tyre_pivotMat
+    2100028: SeatMat
+    2300000: objCylinder195_pivot
+    2300002: objCylinder198
+    2300004: objCylinder201_pivot
+    2300006: Object05
+    2300008: Object06
+    2300010: objObject001_pivot
+    2300012: objObject099_pivot
+    2300014: objObject101
+    2300016: objSphere005
+    2300018: Plane01
+    2300020: Plane02
+    2300022: Plane03
+    2300024: Rear_Tyre01_pivot
+    2300026: Rear_Tyre_pivot
+    2300028: Seat
+    3300000: objCylinder195_pivot
+    3300002: objCylinder198
+    3300004: objCylinder201_pivot
+    3300006: Object05
+    3300008: Object06
+    3300010: objObject001_pivot
+    3300012: objObject099_pivot
+    3300014: objObject101
+    3300016: objSphere005
+    3300018: Plane01
+    3300020: Plane02
+    3300022: Plane03
+    3300024: Rear_Tyre01_pivot
+    3300026: Rear_Tyre_pivot
+    3300028: Seat
+    4300000: objCylinder195_pivot
+    4300002: objCylinder198
+    4300004: objCylinder201_pivot
+    4300006: Object05
+    4300008: Object06
+    4300010: objObject001_pivot
+    4300012: objObject099_pivot
+    4300014: objObject101
+    4300016: objSphere005
+    4300018: Plane01
+    4300020: Plane02
+    4300022: Plane03
+    4300024: Rear_Tyre01_pivot
+    4300026: Rear_Tyre_pivot
+    4300028: Seat
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
